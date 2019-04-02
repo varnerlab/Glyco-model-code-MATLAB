@@ -5,6 +5,8 @@ This repository contains model code for the publication:
 
 ### Requirements
 The model code is written in the [MATLAB](https://www.mathworks.com/products/matlab.html) programming language.
+The model code requires the [GLPK](https://www.gnu.org/software/glpk/) solver, which can be interfaced with
+[MATLAB](https://www.mathworks.com/products/matlab.html) using the [GLPKMEX](https://github.com/blegat/glpkmex) bridge.
 
 ### Funding
 This study was supported by an award from the National Science Foundation (MCB-1411715) to M.D and J.V,
