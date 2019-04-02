@@ -4,7 +4,7 @@ This repository contains model code for the publication:
   [Wayman et al (2019) Improving designer glycan production in Escherichia coli through model-guided metabolic engineering. Metabolic Engineering Communications, to appear.](https://www.sciencedirect.com/science/article/pii/S2214030117300160)
 
 ### Installation and Requirements
-To install the _E.coli_ model, download this repository as a zip file, or `clone`/`pull` it by using the command (from the command-line):
+To install the _E.coli_ model, download this repository as a zip file, or `clone`/`pull` it using the command (from the command-line):
 
     $ git pull https://github.com/varnerlab/Glyco-model-code-MATLAB.git
 
